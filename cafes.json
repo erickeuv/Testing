@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "nombre": "Café Espresso",
+      "tipo": "Espresso",
+      "precio": 2.5
+    },
+    {
+      "id": "2",
+      "nombre": "Café Latte",
+      "tipo": "Latte",
+      "precio": 3.0
+    },
+    {
+      "id": "3",
+      "nombre": "Café Americano",
+      "tipo": "Americano",
+      "precio": 2.0
+    },
+    {
+      "id": "4",
+      "nombre": "Cappuccino",
+      "tipo": "Cappuccino",
+      "precio": 3.5
+    },
+    {
+      "id": "5",
+      "nombre": "Café Mocha",
+      "tipo": "Mocha",
+      "precio": 4.0
+    },
+    {
+      "id": "6",
+      "nombre": "Café Frappé",
+      "tipo": "Frappé",
+      "precio": 4.5
+    }
+]
